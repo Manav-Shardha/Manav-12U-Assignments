@@ -1,4 +1,7 @@
 #Manav Shardha
+#IC4U0
+#September 21st,2018
+#The function of this program is to test a string to see if it is an palindrome
 
 while True:
     while True:
